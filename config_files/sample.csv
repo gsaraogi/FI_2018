@@ -1,0 +1,4 @@
+package,AEMO_INT079_V4_TTL_GS_WTHDRW_1_PKG
+scenario,AEMO_INT079_V4_TTL_GS_WTHDRW_1_PKG
+mapping,AEMO_INT079_V4_TTL_GS_WTHDRW_1_MAP
+procedure,db_obj_deploy_proc
